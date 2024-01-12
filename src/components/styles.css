@@ -1,0 +1,91 @@
+/* styles.css */
+
+
+.current-weather-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff; /* White background color */
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  margin: 10px 0;
+  color: #555;
+}
+
+/* styles.css */
+
+/* ... (previous styles) */
+
+.weather-heading {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.weather-heading h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+
+
+/* styles.css */
+
+/* ... (previous styles) */
+
+.loading {
+  text-align: center;
+  font-size: 1.2em;
+  margin: 20px;
+  color: #007bff; /* Blue color */
+}
+
+.error {
+  text-align: center;
+  font-size: 1.2em;
+  margin: 20px;
+  color: #dc3545; /* Red color */
+}
+
+.location-container {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.weather-heading {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.weather-heading h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.weather-details p {
+  margin: 10px 1rem;
+  color: #555;
+}
+
+
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .current-weather-container {
+    max-width: 100%;
+  }
+}

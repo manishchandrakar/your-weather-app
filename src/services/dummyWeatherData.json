@@ -1,0 +1,141 @@
+{
+  "locations": [
+    {
+      "name": "London",
+      "country": "United Kingdom",
+      "region": "City of London, Greater London",
+      "lat": 51.517,
+      "lon": -0.106,
+      "tz_id": "Europe/London"
+    },
+    {
+      "name": "London",
+      "country": "Canada",
+      "region": "Ontario",
+      "lat": 42.983,
+      "lon": -81.250,
+      "tz_id": "America/Toronto"
+    },
+    {
+      "name": "New York",
+      "country": "United States",
+      "region": "New York",
+      "lat": 40.7128,
+      "lon": -74.0060,
+      "tz_id": "America/New_York"
+    },
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "region": "Tokyo",
+      "lat": 35.6895,
+      "lon": 139.6917,
+      "tz_id": "Asia/Tokyo"
+    },
+    {
+      "name": "Sydney",
+      "country": "Australia",
+      "region": "New South Wales",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "tz_id": "Australia/Sydney"
+    }
+  ],
+  "weather_details": [
+    {
+      "location": "London, United Kingdom",
+      "current": {
+        "observation_time": "2024-01-12 12:00:00",
+        "temperature": 25.5,
+        "weather_icons": ["dummy-icon-url"],
+        "weather_descriptions": ["Clear"],
+        "wind_speed": 3.5,
+        "wind_dir": "NE",
+        "pressure": 1015,
+        "precip": 0.0,
+        "humidity": 50,
+        "cloudcover": 10,
+        "feelslike": 26.0,
+        "uv_index": 5,
+        "visibility": 10,
+        "is_day": "yes"
+      }
+    },
+    {
+      "location": "London, Canada",
+      "current": {
+        "observation_time": "2024-01-12 12:00:00",
+        "temperature": 20.0,
+        "weather_icons": ["dummy-icon-url"],
+        "weather_descriptions": ["Partly Cloudy"],
+        "wind_speed": 2.0,
+        "wind_dir": "NW",
+        "pressure": 1012,
+        "precip": 0.0,
+        "humidity": 60,
+        "cloudcover": 20,
+        "feelslike": 21.0,
+        "uv_index": 3,
+        "visibility": 15,
+        "is_day": "yes"
+      }
+    },
+    {
+      "location": "New York, United States",
+      "current": {
+        "observation_time": "2024-01-12 12:00:00",
+        "temperature": 28.0,
+        "weather_icons": ["dummy-icon-url"],
+        "weather_descriptions": ["Sunny"],
+        "wind_speed": 4.5,
+        "wind_dir": "SE",
+        "pressure": 1010,
+        "precip": 0.0,
+        "humidity": 45,
+        "cloudcover": 5,
+        "feelslike": 30.0,
+        "uv_index": 7,
+        "visibility": 12,
+        "is_day": "yes"
+      }
+    },
+    {
+      "location": "Tokyo, Japan",
+      "current": {
+        "observation_time": "2024-01-12 12:00:00",
+        "temperature": 22.5,
+        "weather_icons": ["dummy-icon-url"],
+        "weather_descriptions": ["Rain"],
+        "wind_speed": 5.0,
+        "wind_dir": "E",
+        "pressure": 1008,
+        "precip": 3.0,
+        "humidity": 75,
+        "cloudcover": 80,
+        "feelslike": 23.0,
+        "uv_index": 2,
+        "visibility": 8,
+        "is_day": "no"
+      }
+    },
+    {
+      "location": "Sydney, Australia",
+      "current": {
+        "observation_time": "2024-01-12 12:00:00",
+        "temperature": 30.0,
+        "weather_icons": ["dummy-icon-url"],
+        "weather_descriptions": ["Clear"],
+        "wind_speed": 6.0,
+        "wind_dir": "N",
+        "pressure": 1016,
+        "precip": 0.0,
+        "humidity": 40,
+        "cloudcover": 10,
+        "feelslike": 32.0,
+        "uv_index": 8,
+        "visibility": 20,
+        "is_day": "yes"
+      }
+    }
+  ]
+}
